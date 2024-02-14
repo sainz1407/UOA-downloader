@@ -2,187 +2,224 @@
   "sakurazaka46": [
     {
       "name": "上村莉菜",
+      "romaji": "Uemura Rina",
       "gen": "1",
       "unisonair": "103"
     },
     {
       "name": "尾関梨香",
+      "romaji": "Ozeki Rika",
       "gen": "1",
       "unisonair": "104"
     },
     {
       "name": "小池美波",
+      "romaji": "Koike Minami",
       "gen": "1",
       "unisonair": "106"
     },
     {
       "name": "小林由依",
+      "romaji": "Kobayashi Yui",
       "gen": "1",
       "unisonair": "107"
     },
     {
       "name": "齋藤冬優花",
+      "romaji": "Saito Fuyuka",
       "gen": "1",
       "unisonair": "108"
     },
     {
       "name": "菅井友香",
+      "romaji": "Sugai Yuuka",
       "gen": "1",
       "unisonair": "111"
     },
     {
       "name": "土生瑞穂",
+      "romaji": "Habu Mizuho",
       "gen": "1",
       "unisonair": "115"
     },
     {
       "name": "原田葵",
+      "romaji": "Harada Aoi",
       "gen": "1",
       "unisonair": "116"
     },
     {
       "name": "守屋茜",
+      "romaji": "Moriya Akane",
       "gen": "1",
       "unisonair": "118"
     },
     {
       "name": "渡辺梨加",
+      "romaji": "Watanabe Rika",
       "gen": "1",
       "unisonair": "120"
     },
     {
       "name": "渡邉理佐",
+      "romaji": "Watanabe Risa",
       "gen": "1",
       "unisonair": "121"
     },
     {
       "name": "井上梨名",
+      "romaji": "Inoue Rina",
       "gen": "2",
       "unisonair": "122"
     },
     {
       "name": "関有美子",
+      "romaji": "Seki Yumiko",
       "gen": "2",
       "unisonair": "123"
     },
     {
       "name": "武元唯衣",
+      "romaji": "Takemoto Yui",
       "gen": "2",
       "unisonair": "124"
     },
     {
       "name": "田村保乃",
+      "romaji": "Tamura Hono",
       "gen": "2",
       "unisonair": "125"
     },
     {
       "name": "藤吉夏鈴",
+      "romaji": "Fujiyoshi Karin",
       "gen": "2",
       "unisonair": "126"
     },
     {
       "name": "松田里奈",
+      "romaji": "Matsuda Rina",
       "gen": "2",
       "unisonair": "127"
     },
     {
       "name": "松平璃子",
+      "romaji": "Matsudaira Riko",
       "gen": "2",
       "unisonair": "128"
     },
     {
       "name": "森田ひかる",
+      "romaji": "Morita Hikaru",
       "gen": "2",
       "unisonair": "129"
     },
     {
       "name": "山﨑天",
+      "romaji": "Yamasaki Ten",
       "gen": "2",
       "unisonair": "130"
     },
     {
       "name": "遠藤光莉",
+      "romaji": "Endo Hikari",
       "gen": "2",
       "unisonair": "131"
     },
     {
       "name": "大園玲",
+      "romaji": "Ozono Rei",
       "gen": "2",
       "unisonair": "132"
     },
     {
       "name": "大沼晶保",
+      "romaji": "Onuma Akiho",
       "gen": "2",
       "unisonair": "133"
     },
     {
       "name": "幸坂茉莉乃",
+      "romaji": "Kousaka Marino",
       "gen": "2",
       "unisonair": "134"
     },
     {
       "name": "増本綺良",
+      "romaji": "Masumoto Kira",
       "gen": "2",
-      "unisonair": "09",
+      "unisonair": "135",
       "sakumsg": "135"
     },
     {
       "name": "守屋麗奈",
+      "romaji": "Moriya Rena",
       "gen": "2",
       "unisonair": "136"
     },
     {
       "name": "石森璃花",
+      "romaji": "Ishimori Rika",
       "gen": "3",
       "unisonair": "137"
     },
     {
       "name": "遠藤理子",
+      "romaji": "Endo Riko",
       "gen": "3",
       "unisonair": "138"
     },
     {
       "name": "小田倉麗奈",
+      "romaji": "Odakura Reina",
       "gen": "3",
       "unisonair": "139"
     },
     {
       "name": "小島凪紗",
+      "romaji": "Kojima Nagisa",
       "gen": "3",
       "unisonair": "140"
     },
     {
       "name": "谷口愛季",
+      "romaji": "Taniguchi Airi",
       "gen": "3",
       "unisonair": "141"
     },
     {
       "name": "中嶋優月",
+      "romaji": "Nakashima Yuzuki",
       "gen": "3",
       "unisonair": "142"
     },
     {
       "name": "的野美青",
+      "romaji": "Matono Mio",
       "gen": "3",
       "unisonair": "143"
     },
     {
       "name": "向井純葉",
+      "romaji": "Mukai Itoha",
       "gen": "3",
       "unisonair": "144"
     },
     {
       "name": "村井優",
+      "romaji": "Murai Yu",
       "gen": "3",
       "unisonair": "145"
     },
     {
       "name": "村山美羽",
+      "romaji": "Murayama Miu",
       "gen": "3",
       "unisonair": "146"
     },
     {
       "name": "山下瞳月",
+      "romaji": "Yamashita Shizuki",
       "gen": "3",
       "unisonair": "147"
     }
@@ -190,176 +227,211 @@
   "hinatazaka46": [
     {
       "name": "井口眞緒",
+      "romaji": "Iguchi Mao",
       "gen": "1",
       "unisonair": "201"
     },
     {
       "name": "潮紗理菜",
+      "romaji": "Ushio Sarina",
       "gen": "1",
       "unisonair": "202"
     },
     {
       "name": "影山優佳",
+      "romaji": "Kageyama Yuka",
       "gen": "1",
       "unisonair": "204"
     },
     {
       "name": "加藤史帆",
+      "romaji": "Kato Shiho",
       "gen": "1",
       "unisonair": "205"
     },
     {
       "name": "齊藤京子",
+      "romaji": "Saito Kyoko",
       "gen": "1",
       "unisonair": "206"
     },
     {
       "name": "佐々木久美",
+      "romaji": "Sasaki Kumi",
       "gen": "1",
       "unisonair": "207"
     },
     {
       "name": "佐々木美玲",
+      "romaji": "Sasaki Mirei",
       "gen": "1",
       "unisonair": "208"
     },
     {
       "name": "高瀬愛奈",
+      "romaji": "Takase Mana",
       "gen": "1",
       "unisonair": "209"
     },
     {
       "name": "高本彩花",
+      "romaji": "Takamoto Ayaka",
       "gen": "1",
       "unisonair": "210"
     },
     {
       "name": "東村芽依",
+      "romaji": "Higashimura Mei",
       "gen": "1",
       "unisonair": "211"
     },
     {
       "name": "金村美玖",
+      "romaji": "Kanemura Miku",
       "gen": "2",
       "unisonair": "212"
     },
     {
       "name": "河田陽菜",
+      "romaji": "Kawata Hina",
       "gen": "2",
       "unisonair": "213"
     },
     {
       "name": "小坂菜緒",
+      "romaji": "Kosaka Nao",
       "gen": "2",
       "unisonair": "214"
     },
     {
       "name": "富田鈴花",
+      "romaji": "Tomita Suzuka",
       "gen": "2",
       "unisonair": "215"
     },
     {
       "name": "丹生明里",
+      "romaji": "Nibu Akari",
       "gen": "2",
       "unisonair": "216"
     },
     {
       "name": "濱岸ひより",
+      "romaji": "Hamagishi Hiyori",
       "gen": "2",
       "unisonair": "217"
     },
     {
       "name": "松田好花",
+      "romaji": "Matsuda Konoka",
       "gen": "2",
       "unisonair": "218"
     },
     {
       "name": "宮田愛萌",
+      "romaji": "Miyata Manamo",
       "gen": "2",
       "unisonair": "219"
     },
     {
       "name": "渡邉美穂",
+      "romaji": "Watanabe Miho",
       "gen": "2",
       "unisonair": "220"
     },
     {
       "name": "上村ひなの",
+      "romaji": "Kamimura Hinano",
       "gen": "3",
       "unisonair": "221"
     },
     {
       "name": "髙橋未来虹",
+      "romaji": "Takahashi Mikuni",
       "gen": "3",
       "unisonair": "222"
     },
     {
       "name": "森本茉莉",
+      "romaji": "Morimoto Marie",
       "gen": "3",
       "unisonair": "223"
     },
     {
       "name": "山口陽世",
+      "romaji": "Yamaguchi Haruyo",
       "gen": "3",
       "unisonair": "224"
     },
     {
       "name": "石塚瑶季",
+      "romaji": "Ishizuka Tamaki",
       "gen": "4",
       "unisonair": "225"
     },
     {
       "name": "岸帆夏",
+      "romaji": "Kishi Honoka",
       "gen": "4",
       "unisonair": "226"
     },
     {
       "name": "小西夏菜実",
+      "romaji": "Konishi Nanami",
       "gen": "4",
       "unisonair": "227"
     },
     {
       "name": "清水理央",
+      "romaji": "Shimizu Rio",
       "gen": "4",
       "unisonair": "228"
     },
     {
       "name": "正源司陽子",
+      "romaji": "Shogenji Yoko",
       "gen": "4",
       "unisonair": "229"
     },
     {
       "name": "竹内希来里",
+      "romaji": "Takeuchi Kirari",
       "gen": "4",
       "unisonair": "230"
     },
     {
       "name": "平尾帆夏",
+      "romaji": "Hirao Honoka",
       "gen": "4",
       "unisonair": "231"
     },
     {
       "name": "平岡海月",
+      "romaji": "Hiraoka Mitsuki",
       "gen": "4",
       "unisonair": "232"
     },
     {
       "name": "藤嶌果歩",
+      "romaji": "Fujishima Kaho",
       "gen": "4",
       "unisonair": "233"
     },
     {
       "name": "宮地すみれ",
+      "romaji": "Miyachi Sumire",
       "gen": "4",
       "unisonair": "234"
     },
     {
       "name": "山下葉留花",
+      "romaji": "Yamashita Haruka",
       "gen": "4",
       "unisonair": "235"
     },
     {
       "name": "渡辺莉奈",
+      "romaji": "Watanabe Rina",
       "gen": "4",
       "unisonair": "236"
     }
@@ -367,31 +439,37 @@
   "keyakizaka46": [
     {
       "name": "石森虹花",
+      "romaji": "Ishimori Nijika",
       "gen": "1",
       "unisonair": "101"
     },
     {
       "name": "織田奈那",
+      "romaji": "Oda Nana",
       "gen": "1",
       "unisonair": "105"
     },
     {
       "name": "佐藤詩織",
+      "romaji": "Sato Shiori",
       "gen": "1",
       "unisonair": "109"
     },
     {
       "name": "鈴本美愉",
+      "romaji": "Suzumoto Miyu",
       "gen": "1",
       "unisonair": "112"
     },
     {
       "name": "長沢菜々香",
+      "romaji": "Nagasawa Nanako",
       "gen": "1",
       "unisonair": "113"
     },
     {
       "name": "平手友梨奈",
+      "romaji": "Hirate Yurina",
       "gen": "1",
       "unisonair": "117"
     }
